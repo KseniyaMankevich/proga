@@ -1,4 +1,3 @@
- //В массиве найти два минимальных элемента за один просмотр, оформить в виде функции
 #include<iostream>
 using namespace std;
 void vivod(int*, int);
